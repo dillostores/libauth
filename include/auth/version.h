@@ -5,8 +5,8 @@
 
 #define DILLO_AUTH_VERSION			"0.1"
 #define DILLO_AUTH_VERSION_NAME		"Version 0.1"
-#define DILLO_AUTH_VERSION_DATE		"08/11/2022"
-#define DILLO_AUTH_VERSION_TIME		"20:15 CST"
+#define DILLO_AUTH_VERSION_DATE		"09/11/2022"
+#define DILLO_AUTH_VERSION_TIME		"15:01 CST"
 #define DILLO_AUTH_VERSION_AUTHOR	"Erick Salas"
 
 #ifdef __cplusplus
