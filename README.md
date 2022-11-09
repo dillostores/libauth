@@ -1,2 +1,3 @@
 # libauth
-Dillo Services Authentication Library
+
+Dillo Web Services Authentication Library
