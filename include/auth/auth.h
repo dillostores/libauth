@@ -125,12 +125,6 @@ AUTH_EXPORT void dillo_auth_print_token (
 	const DilloAuth *dillo_auth
 );
 
-AUTH_EXPORT unsigned int dillo_single_authentication (
-	const struct _HttpReceive *http_receive,
-	const struct _HttpRequest *request,
-	const char *resource
-);
-
 AUTH_EXPORT unsigned int dillo_custom_authentication_handler (
 	const struct _HttpReceive *http_receive,
 	const struct _HttpRequest *request
