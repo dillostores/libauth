@@ -3,10 +3,10 @@
 
 #include "auth/config.h"
 
-#define DILLO_AUTH_VERSION			"0.1"
-#define DILLO_AUTH_VERSION_NAME		"Version 0.1"
-#define DILLO_AUTH_VERSION_DATE		"09/11/2022"
-#define DILLO_AUTH_VERSION_TIME		"15:01 CST"
+#define DILLO_AUTH_VERSION			"0.1.1"
+#define DILLO_AUTH_VERSION_NAME		"Version 0.1.1"
+#define DILLO_AUTH_VERSION_DATE		"10/11/2022"
+#define DILLO_AUTH_VERSION_TIME		"16:23 CST"
 #define DILLO_AUTH_VERSION_AUTHOR	"Erick Salas"
 
 #ifdef __cplusplus

@@ -1,0 +1,4 @@
+- Added custom script to clean & build project sources
+- Added dedicated build & install libauth sources script
+- Added custom workflow to create project releases
+- Removed dillo single authentication method export
